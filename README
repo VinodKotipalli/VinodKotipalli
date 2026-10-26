@@ -1,65 +1,138 @@
-Act as an expert GitHub profile designer and career branding specialist.
+<!-- ============================================================
+  DRAFT: needs your review before publishing.
+  Every [PLACEHOLDER] must be replaced with real, verified info,
+  or the line deleted. Remove any skill icon you haven't used.
+============================================================ -->
 
-My LinkedIn profile:
-https://www.linkedin.com/in/saivinod-kotipalli-960aa61a0/
+<!-- ============ HEADER BANNER ============ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Kotipalli%20Saivinod&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AWS%20%7C%20DevOps%20%7C%20Cloud%20%7C%20Kubernetes&descAlignY=58&descSize=18" width="100%" />
+</p>
 
-My GitHub profile:
-https://github.com/VinodKotipalli
+<!-- ============ TYPING ANIMATION ============ -->
+<p align="center">
+  <a href="https://github.com/VinodKotipalli">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Sai+Vinod+%F0%9F%91%8B;[YOUR+ROLE+FROM+LINKEDIN];Building+and+automating+on+AWS+%E2%98%81%EF%B8%8F;Kubernetes+%E2%80%A2+Terraform+%E2%80%A2+CI%2FCD" alt="Typing animation" />
+  </a>
+</p>
 
-### Objective
+<!-- ============ BADGES ============ -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/saivinod-kotipalli-960aa61a0/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:saivinodkotipalli2003@zohomail.in"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=zoho&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=VinodKotipalli&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-India-FF9933?style=for-the-badge&logo=googlemaps&logoColor=white" />
+</p>
 
-Create a professional GitHub profile based on my actual LinkedIn experience, skills, certifications, and projects.
+---
 
-### 1. Review my LinkedIn profile
+## 👨‍💻 About Me
 
-Read my LinkedIn profile if it is accessible. If it is not accessible, ask me to paste my profile details.
+[2–4 sentences copied or adapted from your LinkedIn "About" section.]
 
-Extract:
+- 🔭 Currently working on: [VERIFY]
+- 🌱 Currently learning: [VERIFY]
+- 💬 Ask me about: [VERIFY, e.g. AWS, Kubernetes, Terraform]
+- 📍 Based in: India
+- 🎯 Open to: [VERIFY, e.g. DevOps / Cloud Engineer roles]
 
-* Headline and About section
-* Professional experience
-* Technical skills
-* Certifications
-* Projects and achievements
-* Education
+---
 
-Do not invent any information.
+## 🛠️ Tech Stack
 
-### 2. Review my GitHub repositories
+> Keep only the tools you've genuinely used.
 
-Inspect my existing public repositories and identify projects relevant to AWS DevOps, AWS cloud services, Kubernetes, Amazon EKS, Terraform, CI/CD, Linux, and monitoring.
+**☁️ Cloud**
 
-Use actual repository links. Do not fabricate projects, technologies, or achievements.
+<img src="https://skillicons.dev/icons?i=aws&theme=dark" />
 
-### 3. Create my profile README
+**☸️ Containers & Orchestration**
 
-Create a professional README.md containing:
+<img src="https://skillicons.dev/icons?i=kubernetes,docker&theme=dark" />
 
-* Introduction
-* Professional summary
-* Technical skills grouped by category
-* Featured GitHub projects
-* Verified certifications
-* Work experience
-* LinkedIn and portfolio links
-* Contact section, using only verified public contact details
+**🏗️ Infrastructure as Code**
 
-Use clean Markdown, relevant icons, and a professional layout suitable for recruiters.
+<img src="https://skillicons.dev/icons?i=terraform&theme=dark" />
 
-### 4. Profile repository
+**🔄 CI/CD & Version Control**
 
-Explain how to create a public GitHub repository named exactly VinodKotipalli, matching my GitHub username, so GitHub can display its README on my profile.
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,jenkins&theme=dark" />
 
-Check whether that repository already exists before creating another one.
+**📊 Monitoring & Observability**
 
-### 5. LinkedIn access
+<img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" />
 
-If LinkedIn blocks access, do not attempt to bypass its login or access restrictions. Ask me to provide the relevant profile sections.
+**🐧 OS & Scripting**
 
-### 6. Safety and approval
+<img src="https://skillicons.dev/icons?i=linux,bash,python&theme=dark" />
 
-Do not expose passwords, access tokens, or confidential employer/client information.
+---
 
-First show me the proposed README and list any details that need verification. Do not commit, push, publish, or modify unrelated repositories until I approve the changes.
+## 🚀 Featured Projects
 
-The final result should accurately represent my professional background and make my GitHub profile easy for recruiters to understand.
+| Project | What it does | Tech |
+|:--|:--|:--|
+| 🔹 [repo-name](https://github.com/VinodKotipalli/repo-name) | [One-line description] | [Stack] |
+| 🔹 [repo-name](https://github.com/VinodKotipalli/repo-name) | [One-line description] | [Stack] |
+| 🔹 [repo-name](https://github.com/VinodKotipalli/repo-name) | [One-line description] | [Stack] |
+
+---
+
+## 💼 Experience
+
+<details open>
+<summary><b>[Job Title]</b> · [Company] · <i>[Start – End]</i></summary>
+
+- [Verified responsibility or achievement]
+- [Verified responsibility or achievement]
+- **Tech:** [tools used]
+
+</details>
+
+<details>
+<summary><b>[Previous Role]</b> · [Company] · <i>[Start – End]</i></summary>
+
+- [Verified responsibility or achievement]
+
+</details>
+
+---
+
+## 🏅 Certifications
+
+| Certification | Issuer | Year | Credential |
+|:--|:--|:--|:--|
+| [e.g. AWS Certified ...] | [Issuer] | [Year] | [Verification link] |
+
+---
+
+## 🎓 Education
+
+- **[Degree]**, [Institution] · [Years]
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=VinodKotipalli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinodKotipalli&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=VinodKotipalli&theme=tokyonight&hide_border=true&background=0d1117" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/saivinod-kotipalli-960aa61a0/"><img src="https://img.shields.io/badge/LinkedIn-saivinod--kotipalli-0A66C2?style=flat-square&logo=linkedin" /></a>
+  <a href="mailto:saivinodkotipalli2003@zohomail.in"><img src="https://img.shields.io/badge/Email-saivinodkotipalli2003@zohomail.in-red?style=flat-square&logo=maildotru&logoColor=white" /></a>
+  <!-- Add portfolio badge only if you have one -->
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" />
+</p>
