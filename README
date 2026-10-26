@@ -1,0 +1,65 @@
+Act as an expert GitHub profile designer and career branding specialist.
+
+My LinkedIn profile:
+https://www.linkedin.com/in/saivinod-kotipalli-960aa61a0/
+
+My GitHub profile:
+https://github.com/VinodKotipalli
+
+### Objective
+
+Create a professional GitHub profile based on my actual LinkedIn experience, skills, certifications, and projects.
+
+### 1. Review my LinkedIn profile
+
+Read my LinkedIn profile if it is accessible. If it is not accessible, ask me to paste my profile details.
+
+Extract:
+
+* Headline and About section
+* Professional experience
+* Technical skills
+* Certifications
+* Projects and achievements
+* Education
+
+Do not invent any information.
+
+### 2. Review my GitHub repositories
+
+Inspect my existing public repositories and identify projects relevant to AWS DevOps, AWS cloud services, Kubernetes, Amazon EKS, Terraform, CI/CD, Linux, and monitoring.
+
+Use actual repository links. Do not fabricate projects, technologies, or achievements.
+
+### 3. Create my profile README
+
+Create a professional README.md containing:
+
+* Introduction
+* Professional summary
+* Technical skills grouped by category
+* Featured GitHub projects
+* Verified certifications
+* Work experience
+* LinkedIn and portfolio links
+* Contact section, using only verified public contact details
+
+Use clean Markdown, relevant icons, and a professional layout suitable for recruiters.
+
+### 4. Profile repository
+
+Explain how to create a public GitHub repository named exactly VinodKotipalli, matching my GitHub username, so GitHub can display its README on my profile.
+
+Check whether that repository already exists before creating another one.
+
+### 5. LinkedIn access
+
+If LinkedIn blocks access, do not attempt to bypass its login or access restrictions. Ask me to provide the relevant profile sections.
+
+### 6. Safety and approval
+
+Do not expose passwords, access tokens, or confidential employer/client information.
+
+First show me the proposed README and list any details that need verification. Do not commit, push, publish, or modify unrelated repositories until I approve the changes.
+
+The final result should accurately represent my professional background and make my GitHub profile easy for recruiters to understand.
